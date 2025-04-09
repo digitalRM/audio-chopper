@@ -2,6 +2,9 @@
 
 A simple and intuitive web application for splitting audio files into multiple clips. Built with Next.js, TypeScript, and the Web Audio API.
 
+![image](https://github.com/user-attachments/assets/d656fdf4-15d8-4a34-8abf-074a14345cef)
+
+
 ## Features
 
 - Upload audio files
